@@ -59,3 +59,5 @@ typings/
 
 # truffle artifacts
 build/*
+.idea/
+bin/
